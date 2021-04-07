@@ -11,3 +11,4 @@ License plate recognition system is divided into two parts, license plate locati
 
 <br>The system can recognize the license plate in the picture and video. 
 <br>Please click here to see the demo of identifying the license plate that appears in the video:https://www.youtube.com/watch?v=TcZ0gQQxhY0
+The number in the top left of the video represents how long the license plate is visible in the video.
