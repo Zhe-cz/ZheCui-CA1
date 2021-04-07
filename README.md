@@ -1,4 +1,4 @@
-## This is a license plate recognition project. The system can recognize the license plate in the picture and video, and calculate how long the license plate is visible in the video.
+## This is a license plate recognition project. The system can recognize the license plate in the images and videos, and calculate how long the license plate is visible in the video.
 ## This folder contains all Zhe Cui's work, which is completed by Zhe Cui independently.
 License plate recognition system is divided into two parts, license plate location and character recognition.
 
